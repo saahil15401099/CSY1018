@@ -1,0 +1,89 @@
+html{
+  height: 100%;
+}
+
+body {
+background-color: #A6ACAF;
+font-family: 'Roboto', sans-serif;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  font-family: 'Roboto', sans-serif;
+}
+
+.headmain{
+  width: 100%;
+  height: auto;
+  background-color:#9ED4DC;
+}
+
+.headsub{
+  width: 1024px;
+  height: auto;
+  margin: auto;
+}
+
+.logo{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+.nav{
+  height: 40px;
+}
+
+.nav ul{
+  margin:0;
+  padding:0;
+  overflow: hidden;
+}
+
+.nav ul li{
+  list-style: none;
+  float: left;
+  text-align: center;
+
+}
+.nav li a:hover{
+  background color: red;
+
+
+
+}
+
+.nav ul li a{
+  text-decoration: none;
+  border-right: 1px solid #bbb;
+  border-top: 1px solid #bbb;
+
+  display: block;
+  padding: 10px 20px
+
+}
+
+.nav a:link,a:visited{
+    display: block;
+    front-weight:bold;
+    colour:#ffffff;
+    background-color:#9ED4DC;
+    width:120px;
+}
+
+.img{
+  text-align: center;
+}
+.formCT{
+  font-family: 'Roboto', sans-serif;
+}
+
+.footer{
+  text-align: center;
+  background-color: #9ED4DC;
+
+
+}
